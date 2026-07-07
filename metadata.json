@@ -1,0 +1,6 @@
+{
+  "name": "Ambar - Video Editor",
+  "description": "Portfolio website for Ambar, a video editor specializing in YouTube vlogs and DaVinci Resolve.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
